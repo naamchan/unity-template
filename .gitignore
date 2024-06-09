@@ -45,3 +45,7 @@ update_submodule.sh
 RemoteConfig/
 /Logs
 /UserSettings
+
+# Nuget Packages
+/Packages/nuget-packages/InstalledPackages/
+/Packages/nuget-packages/InstalledPackages.meta
